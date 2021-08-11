@@ -12,7 +12,6 @@ Curso oferecido pela Zup Edu
 - [Lidando com erros retornados pela API gRPC](https://www.youtube.com/watch?v=wiyn60QjwfQ)
 - [Healthcheck sobre HTTP](https://www.youtube.com/watch?v=To32I8UPkkc)
 - [Healthcheck sobre GRPC](https://www.youtube.com/watch?v=6ubGwXlyxgE)
-- [Micronaut Testing - como testar uma API gRPC](https://www.youtube.com/watch?v=mq3UYOQ9FqE)
 
 ## Tecnologias utilizadas:
 - Kotlin
